@@ -38,6 +38,7 @@
   "dependencies": {
     "@shopify/polaris": "^12.15.0",
     "@shopify/shopify-api": "^9.2.0",
+    "axios": "^1.6.7",
     "compression": "^1.7.4",
     "cryptr": "^6.3.0",
     "dotenv": "^16.4.4",
@@ -45,6 +46,7 @@
     "mongoose": "^8.1.2",
     "raviger": "^4.1.2",
     "react": "^18.2.0",
+    "react-d3-speedometer": "^2.2.1",
     "react-dom": "^18.2.0",
     "serve-static": "^1.15.0"
   },
